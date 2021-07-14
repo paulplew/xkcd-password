@@ -3,28 +3,28 @@ Read more about the [XKCD Password Generator](https://xkcd.com/936/).
 
 ## Examples
 1. Basic Generation
-``` Bash
+``` 
 $ ./xkcd.sh
 eleventhsavagingballroomcrevices
 ```
 2. using `-w` flag
-``` Bash
+``` 
 $ ./xkcd.sh -w 10
 floppygruesomelyexperiencestrutsocksmiserlinessutteredvibratedfamousframed
 ```
 3. using `-c` flag
-``` Bash
-./xkcd.sh -c 2
+``` 
+$ ./xkcd.sh -c 2
 UnderfundingstylisedChaperonedoverpressure
 ```
 4. using the `-n` flag
-``` Bash
-./xkcd.sh -n 15
+``` 
+$ ./xkcd.sh -n 15
 5literaturespromulgate2expressionists83ambushed4
 ```
 5. using the `-s` flag
 ``` Bash
-./xkcd.sh -s 5
+$ ./xkcd.sh -s 5
 ;informing$;splittabledemographers.layoff%
 ```
 
