@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 
 # PT Plew
-# This is pretty gross and uses gome GNU only features but hey it works on my 
-# computer I think it should work with most modern distros (fingers crossed) 
-# if it doesnt work for you send me an email with your error message and I will check it out 
+# if this doesn't work for you send me an email with your error message and I will check it out 
 # 	open mailto:thepaulplew@gmail.com
 
 # The purpose of this script is to generate a password using the XKCD password
