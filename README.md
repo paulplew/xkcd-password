@@ -23,7 +23,7 @@ $ ./xkcd.sh -n 15
 5literaturespromulgate2expressionists83ambushed4
 ```
 5. using the `-s` flag
-``` Bash
+``` 
 $ ./xkcd.sh -s 5
 ;informing$;splittabledemographers.layoff%
 ```
