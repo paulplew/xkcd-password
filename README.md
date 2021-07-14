@@ -1,13 +1,13 @@
 # Password Generator using the XKCD Method
-Read more about the [XKCD Password Generator](https://xkcd.com/936/)
+Read more about the [XKCD Password Generator](https://xkcd.com/936/).
 
 ## Usage
 Flags:
-- `-w` include the number of words in the password
-- `-c` capitalize the given number of words
-- `-n` insert the given number of random digits in the password
-- `-s` insert the given number of random symbols in the password
-- `--wordlist` specify a custom wordlist
+- `-w $NUMBER` include $NUMBER words in the password
+- `-c $NUMBER` capitalize the given number of words
+- `-n $NUMBER` insert $NUMBER random digits in the password
+- `-s $NUMBER` insert $NUMBER random symbols in the password
+- `--wordlist /path/to/wordlist` specify a custom wordlist   
 run the program with the `-h` flag for more info
 
 ## Requirements
