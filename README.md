@@ -8,6 +8,7 @@ Flags:
 - `-n $NUMBER` insert $NUMBER random digits in the password
 - `-s $NUMBER` insert $NUMBER random symbols in the password
 - `--wordlist /path/to/wordlist` specify a custom wordlist   
+  
 run the program with the `-h` flag for more info
 
 ## Requirements
